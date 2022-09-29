@@ -1,16 +1,14 @@
-# flutter_permission_handling
+# flutter_perission_handling
 
-A new Flutter project.
+Flutter Permission Handler
 
-## Getting Started
+Make sure you set the compileSdkVersion in your "android/app/build.gradle" file to 33
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+<p align="left">
+  <img width="300" height="600" src="https://raw.githubusercontent.com/moeenchanna/flutter_permission_handling/main/screenshots/1.png">
+   <img width="300" height="600" src="https://raw.githubusercontent.com/moeenchanna/flutter_permission_handling/main/screenshots/2.png">
+   <img width="300" height="600" src="https://raw.githubusercontent.com/moeenchanna/flutter_permission_handling/main/screenshots/3.png">
+   <img width="300" height="600" src="https://raw.githubusercontent.com/moeenchanna/flutter_permission_handling/main/screenshots/4.png">
+</p>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
